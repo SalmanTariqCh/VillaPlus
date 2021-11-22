@@ -1,0 +1,7 @@
+C:\Users\Stariq\Desktop\Code\Personal Development\Interview Test\Villa Plus\VillaPlusPrice\VillaPlusPrice\bin\Debug\VillaPlusPrice.exe.config
+C:\Users\Stariq\Desktop\Code\Personal Development\Interview Test\Villa Plus\VillaPlusPrice\VillaPlusPrice\bin\Debug\VillaPlusPrice.exe
+C:\Users\Stariq\Desktop\Code\Personal Development\Interview Test\Villa Plus\VillaPlusPrice\VillaPlusPrice\bin\Debug\VillaPlusPrice.pdb
+C:\Users\Stariq\Desktop\Code\Personal Development\Interview Test\Villa Plus\VillaPlusPrice\VillaPlusPrice\obj\Debug\VillaPlusPrice.csprojAssemblyReference.cache
+C:\Users\Stariq\Desktop\Code\Personal Development\Interview Test\Villa Plus\VillaPlusPrice\VillaPlusPrice\obj\Debug\VillaPlusPrice.csproj.CoreCompileInputs.cache
+C:\Users\Stariq\Desktop\Code\Personal Development\Interview Test\Villa Plus\VillaPlusPrice\VillaPlusPrice\obj\Debug\VillaPlusPrice.exe
+C:\Users\Stariq\Desktop\Code\Personal Development\Interview Test\Villa Plus\VillaPlusPrice\VillaPlusPrice\obj\Debug\VillaPlusPrice.pdb
